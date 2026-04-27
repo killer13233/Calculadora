@@ -15,5 +15,8 @@ public class Santiago {
     public void saludar(){
         
         System.out.println("Hola");
+        
+        
+        System.out.println("Adios");
     }
 }
