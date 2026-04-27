@@ -6,17 +6,12 @@ package calculadoraap;
 
 /**
  *
- * @author ASUS
+ * @author Usuario
  */
-public class Santiago {
+public class SheylaP {
     
-    
-    
-    public void saludar(){
-        
-        System.out.println("Hola");
-        
-        
-        System.out.println("Adios");
+    public static void main(String[] args) {
+        System.out.println("Holaaa, soy Sheyla Pacha - Usuario activo");
     }
+
 }

@@ -31,7 +31,7 @@ public class Calculadora extends JFrame implements ActionListener {
     //  Constructor
     // -------------------------
     public Calculadora() {
-        setTitle("Calculadora");
+        setTitle("Calculadora Sheyla");
         setSize(300, 400);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setResizable(false);
