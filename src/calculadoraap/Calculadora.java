@@ -213,6 +213,7 @@ public class Calculadora extends JFrame implements ActionListener {
         } else {
             return String.valueOf(num);
         }
+        
     }
 
     // -------------------------
